@@ -1,7 +1,7 @@
 import telebot
 import queue
 from telebot import types
-TOKEN="5320961889:AAE8mFuqE0SlrEeR9ZhDm1kHQNHcqmUSKPc"
+TOKEN="TOKEN SHOULD BE HERE"
 
 
 bot = telebot.TeleBot(TOKEN)
